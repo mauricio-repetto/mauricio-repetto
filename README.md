@@ -33,7 +33,7 @@ Degree: **Computer System Analyst** <br>
 Institute: Universidad ORT Uruguay <br>
 Location: Montevideo, Uruguay <br>
 Year: 2009 <br>
-  
+ <br>  
 # Participation in events
 
 ## Experience in Conferences
@@ -47,7 +47,6 @@ Moderator and part of the program committee for the Python Summit.  <br>
 \[[Slides](https://docs.google.com/presentation/d/1fDXMi8M7ZR2ueot6q5cStEwfEaav3NJ_jk02smI_CZY/edit?usp=sharing) - [Google colab notebook](https://drive.google.com/file/d/1neqSeyIqdpufL4EtY6jUirUvWGya0Mkp/view?usp=sharing)\] <br>
 Medellín, Colombia - Feb 2020 <br>
  <br>
-
 ## Experience in Talks
 
 **Clase Magistral: Inteligencia Artificial en todas partes** <br>
