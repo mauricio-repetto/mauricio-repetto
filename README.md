@@ -36,8 +36,11 @@ Year: 2009 <br>
  <br>  
 # Participation in events
 
-## Experience in Conferences
-
+**PyCon 2024** <br>
+“¿Cómo hago para que la AI me conozca?” - Workshop: In this workshop I showed how you can finetune generative models for image generation with just a few images of yourself. We went through a couple of finetune techniques with Stable Diffusion with the theory behind first, and then the practical side of it.  <br>
+\[[Slides](https://docs.google.com/presentation/d/16g29yj9itFca0LeLo_akfH78CktxbN83VG5Sp_OKMx8/edit?usp=sharing) - [Materials](http://bit.ly/paicon24_ns)\] <br>
+Medellín, Colombia - Jun 2024 <br>
+ <br>
 **PyGeekle’22** <br>
 Moderator and part of the program committee for the Python Summit.  <br>
 \[[Site](https://events.geekle.us/python/) - [Certificate](https://verification.givemycertificate.com/v/d6317789-22c8-4d7b-aa5a-ba14031071b1) - [Session](https://youtu.be/2fgBKDT1j8k?list=PLkAZiMVWwm_rtcUxdWkOVVABQ5jRftFuH&t=36104)\] <br> Online - May 2022 <br>
