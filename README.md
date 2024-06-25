@@ -67,6 +67,19 @@ Montevideo, Uruguay - 2021 <br>
 \[[Slides](https://docs.google.com/presentation/d/1C_nnkjR8lhhrZndrEvJmbYwjCX_kUZFZYIHxa_x8rZw/edit?usp=sharing) - [Talk](https://youtu.be/clKHG4U-cBI)\] <br>
 Montevideo, Uruguay - Oct 2021 <br>
  <br>
+
+ ## Other Experiences
+
+**“Mujeres adelante”**<br>
+Accompany women through a comprehensive training process to facilitate their employment integration, emphasizing the exchange of experiences between mentors and participating women. <br>
+\[[Project](https://www.fundacioncea.org/mujeresadelante#:~:text=Una%20iniciativa%20que%20busca%20capacitar,ventas%20y%20servicio%20al%20cliente.) - [Certificate](https://insignias.disruptia.co/assertion/a3028679-9efc-44c5-95ef-38e0a4921a41)\].<br>
+Medellín, Colombia - Mar 2023<br>
+<br>
+**“A national experience in training teachers: Scratch and Robotics in Uruguay”**<br>
+In 2011 a specific CEIBAL’s program was launched to train all Informatics teachers (1600 people) in Programming and Robotics. <br>
+\[[Project](https://dialnet.unirioja.es/descarga/articulo/6041540.pdf)\].<br>
+Montevideo, Uruguay - 2011<br>
+
 # Languages
 
 - Spanish: Native
