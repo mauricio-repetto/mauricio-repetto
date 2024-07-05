@@ -38,7 +38,7 @@ Year: 2009 <br>
 
 **PyCon 2024** <br>
 “¿Cómo hago para que la AI me conozca?” - Workshop: In this workshop I showed how you can finetune generative models for image generation with just a few images of yourself. We went through a couple of finetune techniques with Stable Diffusion with the theory behind first, and then the practical side of it.  <br>
-\[[Slides](https://docs.google.com/presentation/d/16g29yj9itFca0LeLo_akfH78CktxbN83VG5Sp_OKMx8/edit?usp=sharing) - [Materials](http://bit.ly/paicon24_ns)\] <br>
+\[[Slides](https://docs.google.com/presentation/d/16g29yj9itFca0LeLo_akfH78CktxbN83VG5Sp_OKMx8/edit?usp=sharing) - [Materials](http://bit.ly/paicon24_ns) - [Certificate](https://drive.google.com/file/d/1xO_fr98dNs27pN2xIj5U4QtbMbmRNJFu/view)\] <br>
 Medellín, Colombia - Jun 2024 <br>
  <br>
 **PyGeekle’22** <br>
