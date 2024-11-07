@@ -35,7 +35,16 @@ Location: Montevideo, Uruguay <br>
 Year: 2009 <br>
  <br>  
 # Participation in events
+Google Developer Groups - November
+“¿Cómo hago para que la AI me conozca?” - Workshop: This was an updated version of the workshop of Pycon 2024. 
+[Slides - Materials]
+Medellín, Colombia - November 2024
 
+**Google Developer Groups - November** <br>
+“¿Cómo hago para que la AI me conozca?” - Workshop: This was an updated version of the workshop of Pycon 2024.  <br>
+\[[Slides](https://docs.google.com/presentation/d/1V1rnAXciGe4lISQf_9jQq18vKcERAndmfHYgwwV93lw/edit?usp=sharing) - [Materials](http://bit.ly/gdg_ns](http://bit.ly/gdgmed24_ns) <br>
+Medellín, Colombia - Jun 2024 <br>
+ <br>
 **PyCon 2024** <br>
 “¿Cómo hago para que la AI me conozca?” - Workshop: In this workshop I showed how you can finetune generative models for image generation with just a few images of yourself. We went through a couple of finetune techniques with Stable Diffusion with the theory behind first, and then the practical side of it.  <br>
 \[[Slides](https://docs.google.com/presentation/d/16g29yj9itFca0LeLo_akfH78CktxbN83VG5Sp_OKMx8/edit?usp=sharing) - [Materials](http://bit.ly/paicon24_ns) - [Certificate](https://drive.google.com/file/d/1xO_fr98dNs27pN2xIj5U4QtbMbmRNJFu/view)\] <br>
