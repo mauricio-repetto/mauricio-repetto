@@ -1,6 +1,6 @@
 # About me
 
-👋 Hi, I’m @mauricio-repetto, an ML Engineer with 2 postgraduate degrees, one in BigData Analytics and another in Artifficial Intelligence, and in addition I have a master degree in BigData. I currently work as a Machine Learning Engineer at Nearsure (ex UruIT) and I also teach programming classes at Universidad ORT Uruguay. I have extensive experience in developing Business Intelligence solutions for various clients in South America and the United States and in recent years I have carried out several projects based on Artificial Intelligence in areas such as Computer Vision, Natural Language Processing, Audio Processing, among others.
+👋 Hi, I’m @mauricio-repetto, an ML Engineer with 2 postgraduate degrees, one in BigData Analytics and another in Artificial Intelligence, and in addition I have a master degree in BigData. I currently work as a Machine Learning Engineer at Nearsure (ex UruIT) and I also teach programming classes at Universidad ORT Uruguay. I have extensive experience in developing Business Intelligence solutions for various clients in South America and the United States and in recent years I have carried out several projects based on Artificial Intelligence in areas such as Computer Vision, Natural Language Processing, Audio Processing, among others.
 
 - 👀 I’m interested in **Artificial Intelligence**.
 - 🌱 I’m currently learning **everything about AI**.
@@ -35,15 +35,11 @@ Location: Montevideo, Uruguay <br>
 Year: 2009 <br>
  <br>  
 # Participation in events
-Google Developer Groups - November
-“¿Cómo hago para que la AI me conozca?” - Workshop: This was an updated version of the workshop of Pycon 2024. 
-[Slides - Materials]
-Medellín, Colombia - November 2024
 
 **Google Developer Groups - November** <br>
-“¿Cómo hago para que la AI me conozca?” - Workshop: This was an updated version of the workshop of Pycon 2024.  <br>
-\[[Slides](https://docs.google.com/presentation/d/1V1rnAXciGe4lISQf_9jQq18vKcERAndmfHYgwwV93lw/edit?usp=sharing) - [Materials](http://bit.ly/gdg_ns](http://bit.ly/gdgmed24_ns) <br>
-Medellín, Colombia - Jun 2024 <br>
+“¿Cómo hago para que la AI me conozca?” - Workshop: This was an updated version of the workshop for Pycon 2024.  <br>
+\[[Slides](https://docs.google.com/presentation/d/1V1rnAXciGe4lISQf_9jQq18vKcERAndmfHYgwwV93lw/edit?usp=sharing) - [Materials](http://bit.ly/gdgmed24_ns)\] <br>
+Medellín, Colombia - Nov 2024 <br>
  <br>
 **PyCon 2024** <br>
 “¿Cómo hago para que la AI me conozca?” - Workshop: In this workshop I showed how you can finetune generative models for image generation with just a few images of yourself. We went through a couple of finetune techniques with Stable Diffusion with the theory behind first, and then the practical side of it.  <br>
