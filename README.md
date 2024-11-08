@@ -57,7 +57,7 @@ Medellín, Colombia - Feb 2020 <br>
  <br>
 ## Experience in Talks
 
-**Clase Magistral: Inteligencia Artificial en todas partes** <br>
+**"Clase Magistral: Inteligencia Artificial en todas partes"** <br>
 An Artificial Intelligence talk where we presented an introduction to some concepts and several use cases at Facultad de Ingeniería of Universidad de Montevideo.  <br>
 \[[Slides](https://docs.google.com/presentation/d/11AzVkRwAwXyVvIh2AKvVtxXx_1R2nd2Wo_R0othvh8Y/edit?usp=sharing) - [Talk](https://youtu.be/6-HR3RxyCQo) - [Interview](https://www.linkedin.com/comm/feed/update/urn%3Ali%3Aactivity%3A6958205167661907968)\]. <br>
 Montevideo, Uruguay - Jul 2022 <br>
