@@ -62,15 +62,15 @@ An Artificial Intelligence talk where we presented an introduction to some conce
 \[[Slides](https://docs.google.com/presentation/d/11AzVkRwAwXyVvIh2AKvVtxXx_1R2nd2Wo_R0othvh8Y/edit?usp=sharing) - [Talk](https://youtu.be/6-HR3RxyCQo) - [Interview](https://www.linkedin.com/comm/feed/update/urn%3Ali%3Aactivity%3A6958205167661907968)\]. <br>
 Montevideo, Uruguay - Jul 2022 <br>
  <br>
+ **“AI Talks 2021”** <br>
+“Proyectos de IA en healthcare”, In this talk we showed some examples about AI projects in Healthcare where UruIT has participated. We shared experiences and challenges that we faced during the development of these solutions (and more).  <br>
+\[[Slides](https://docs.google.com/presentation/d/1C_nnkjR8lhhrZndrEvJmbYwjCX_kUZFZYIHxa_x8rZw/edit?usp=sharing) - [Talk](https://youtu.be/clKHG4U-cBI)\] <br>
+Montevideo, Uruguay - Oct 2021 <br>
+ <br>
 **“AI Talks 2021”** <br>
 Organizer and moderator at these series of events at UruIT.  <br>
 \[[AI Talks Program](https://digital.uruit.com/ai-talks) - [Talks](https://youtube.com/playlist?list=PLxHptoGq8Bb0JXHU3WzT93clvAgMPNmwP)\] <br>
 Montevideo, Uruguay - 2021 <br>
- <br>
-**“AI Talks 2021”** <br>
-“Proyectos de IA en healthcare”, In this talk we showed some examples about AI projects in Healthcare where UruIT has participated. We shared experiences and challenges that we faced during the development of these solutions (and more).  <br>
-\[[Slides](https://docs.google.com/presentation/d/1C_nnkjR8lhhrZndrEvJmbYwjCX_kUZFZYIHxa_x8rZw/edit?usp=sharing) - [Talk](https://youtu.be/clKHG4U-cBI)\] <br>
-Montevideo, Uruguay - Oct 2021 <br>
  <br>
 
  ## Other Experiences
