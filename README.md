@@ -38,7 +38,7 @@ Year: 2009 <br>
 
 **Google Developer Groups - November** <br>
 “¿Cómo hago para que la AI me conozca?” - Workshop: This was an updated version of the workshop for Pycon 2024.  <br>
-\[[Slides](https://docs.google.com/presentation/d/1V1rnAXciGe4lISQf_9jQq18vKcERAndmfHYgwwV93lw/edit?usp=sharing) - [Materials](http://bit.ly/gdgmed24_ns)\] <br>
+\[[Slides](https://docs.google.com/presentation/d/1V1rnAXciGe4lISQf_9jQq18vKcERAndmfHYgwwV93lw/edit?usp=sharing) - [Materials](http://bit.ly/gdgmed24_ns) - [Event](https://gdg.community.dev/events/details/google-gdg-medellin-presents-como-hago-para-que-la-ia-me-conozca/)\] <br>
 Medellín, Colombia - Nov 2024 <br>
  <br>
 **PyCon 2024** <br>
