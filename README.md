@@ -90,6 +90,7 @@ Montevideo, Uruguay - 2011<br>
 - Spanish: Native
 - English: Good
 - Italian: Good
+- Portuguese: Basic
 
 
 
