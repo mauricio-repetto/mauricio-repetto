@@ -89,15 +89,15 @@ Montevideo, Uruguay - 2011<br>
 
 # Contributions to popular repos
 
-**pro_gan_pytorch repository** 
+**pro_gan_pytorch repository** <br>
 <br>
 Added new functionalities to one of the most used [non-official PyTorch implementations](https://github.com/akanimax/pro_gan_pytorch) of the [PGGAN paper](https://openreview.net/forum?id=Hk99zCeAb), making them available for the community. Our approved and merged pull request contributes to repository enhancement and can be found on GitHub [here](github.com/akanimax/pro_gan_pytorch/pull/69).
 <br>
-**diffusers repository**
+**diffusers repository**<br>
 <br>
 Made a few enhancements to this leading Python library for [SOTA pretrained diffusion models](https://github.com/huggingface/diffusers), improving its functionalities and code quality. Our approved and merged pull request can be found on GitHub [here](github.com/huggingface/diffusers/pull/3807).
 <br>
-**dejavu repository**
+**dejavu repository**<br>
 <br>
 Forked the [original repository](https://github.com/worldveil/dejavu) to migrate the solution entirely to python 3.6.6 while refactoring most of the logic and adding support for postgresql.
 <br>
