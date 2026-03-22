@@ -1,6 +1,6 @@
 # About me
 
-👋 Hi, I’m @mauricio-repetto, an ML Engineer with 2 postgraduate degrees, one in BigData Analytics and another in Artificial Intelligence, and in addition I have a master degree in BigData. I currently work as a Machine Learning Engineer at Nearsure (ex UruIT) and I also teach programming classes at Universidad ORT Uruguay. I have extensive experience in developing Business Intelligence solutions for various clients in South America and the United States and in recent years I have carried out several projects based on Artificial Intelligence in areas such as Computer Vision, Natural Language Processing, Audio Processing, among others.
+👋 Hi, I’m @mauricio-repetto, an ML Engineer with 2 postgraduate degrees, one in BigData Analytics and another in Artificial Intelligence, and in addition I have a master degree in BigData. I currently work as a Machine Learning Engineer at Nortal (previously UruIT and Nearsure) and I also teach programming classes at Universidad ORT Uruguay. I have extensive experience in developing Business Intelligence solutions for various clients in South America and the United States and since 2018 I have carried out several projects based on Artificial Intelligence in areas such as Computer Vision, Natural Language Processing, Audio Processing, among others.
 
 - 👀 I’m interested in **Artificial Intelligence**.
 - 🌱 I’m currently learning **everything about AI**.
@@ -88,9 +88,9 @@ Montevideo, Uruguay - 2011<br>
 # Languages
 
 - Spanish: Native
-- English: Good
-- Italian: Good
-- Portuguese: Basic
+- English: B2
+- Italian: B2
+- Portuguese: B1
 
 
 
