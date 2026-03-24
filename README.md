@@ -53,11 +53,6 @@ Medellín, Colombia - Jun 2024 <br>
 \[[Slides](https://docs.google.com/presentation/d/16g29yj9itFca0LeLo_akfH78CktxbN83VG5Sp_OKMx8/edit?usp=sharing) - [Materials](http://bit.ly/paicon24_ns) - [Certificate](https://drive.google.com/file/d/1xO_fr98dNs27pN2xIj5U4QtbMbmRNJFu/view)\] <br>
 Medellín, Colombia - Jun 2024 <br>
  <br>
- **Espacio Brújula** <br>
-“IA: su historia a través del tiempo” - Talk: In this presentation for a science club we went through the history of AI, highlighting differents moments in its evolution.  <br>
-\[[Slides](https://docs.google.com/presentation/d/1SOH2ANaXtA633uoOhWmxUZE38GwS06ltpslNjO0rGoU/edit?usp=sharing) - [Youtube recap](https://www.youtube.com/watch?v=nFlp1hvT7-o)\] <br>
-Montevideo, Uruguay - Sep 2022 <br>
- <br>
 **PyGeekle’22** <br>
 Moderator and part of the program committee for the Python Summit.  <br>
 \[[Site](https://events.geekle.us/python/) - [Certificate](https://verification.givemycertificate.com/v/d6317789-22c8-4d7b-aa5a-ba14031071b1) - [Session](https://youtu.be/2fgBKDT1j8k?list=PLkAZiMVWwm_rtcUxdWkOVVABQ5jRftFuH&t=36104)\] <br> Online - May 2022 <br>
@@ -68,7 +63,11 @@ Moderator and part of the program committee for the Python Summit.  <br>
 Medellín, Colombia - Feb 2020 <br>
  <br>
 ## Experience in Talks
-
+**Espacio Brújula** <br>
+“IA: su historia a través del tiempo” - Talk: In this presentation for a science club we went through the history of AI, highlighting differents moments in its evolution.  <br>
+\[[Slides](https://docs.google.com/presentation/d/1SOH2ANaXtA633uoOhWmxUZE38GwS06ltpslNjO0rGoU/edit?usp=sharing) - [Youtube recap](https://www.youtube.com/watch?v=nFlp1hvT7-o)\] <br>
+Montevideo, Uruguay - Sep 2022 <br>
+ <br>
 **"Clase Magistral: Inteligencia Artificial en todas partes"** <br>
 An Artificial Intelligence talk where we presented an introduction to some concepts and several use cases at Facultad de Ingeniería of Universidad de Montevideo.  <br>
 \[[Slides](https://docs.google.com/presentation/d/11AzVkRwAwXyVvIh2AKvVtxXx_1R2nd2Wo_R0othvh8Y/edit?usp=sharing) - [Talk](https://youtu.be/6-HR3RxyCQo) - [Interview](https://www.linkedin.com/comm/feed/update/urn%3Ali%3Aactivity%3A6958205167661907968)\]. <br>
