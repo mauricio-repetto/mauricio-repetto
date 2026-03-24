@@ -43,10 +43,19 @@ Year: 2009 <br>
 \[[Slides](https://docs.google.com/presentation/d/1V1rnAXciGe4lISQf_9jQq18vKcERAndmfHYgwwV93lw/edit?usp=sharing) - [Materials](http://bit.ly/gdgmed24_ns) - [Event](https://gdg.community.dev/events/details/google-gdg-medellin-presents-como-hago-para-que-la-ia-me-conozca/)\] <br>
 Medellín, Colombia - Nov 2024 <br>
  <br>
+ **PyCon 2024** <br>
+Sponsor Interview: I was interviewed as part of Nearsure's sponsorship where we talked about several aspect of the company and myself.  <br>
+\[[Youtube](https://www.youtube.com/watch?v=6EZ8q_2rL-8&list=PLkAZiMVWwm_rtcUxdWkOVVABQ5jRftFuH) <br>
+Medellín, Colombia - Jun 2024 <br>
 **PyCon 2024** <br>
 “¿Cómo hago para que la AI me conozca?” - Workshop: In this workshop I showed how you can finetune generative models for image generation with just a few images of yourself. We went through a couple of finetune techniques with Stable Diffusion with the theory behind first, and then the practical side of it.  <br>
 \[[Slides](https://docs.google.com/presentation/d/16g29yj9itFca0LeLo_akfH78CktxbN83VG5Sp_OKMx8/edit?usp=sharing) - [Materials](http://bit.ly/paicon24_ns) - [Certificate](https://drive.google.com/file/d/1xO_fr98dNs27pN2xIj5U4QtbMbmRNJFu/view)\] <br>
 Medellín, Colombia - Jun 2024 <br>
+ <br>
+ **Espacio Brújula** <br>
+“IA: su historia a través del tiempo” - Talk: In this presentation for a science club we went through the history of AI, highlighting differents moments in its evolution.  <br>
+\[[Slides](https://docs.google.com/presentation/d/1SOH2ANaXtA633uoOhWmxUZE38GwS06ltpslNjO0rGoU/edit?usp=sharing) - [Youtube recap](https://www.youtube.com/watch?v=nFlp1hvT7-o) <br>
+Montevideo, Uruguay - Sep 2022 <br>
  <br>
 **PyGeekle’22** <br>
 Moderator and part of the program committee for the Python Summit.  <br>
