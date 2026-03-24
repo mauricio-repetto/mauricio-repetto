@@ -45,7 +45,7 @@ Medellín, Colombia - Nov 2024 <br>
  <br>
  **PyCon 2024** <br>
 Sponsor Interview: I was interviewed as part of Nearsure's sponsorship where we talked about several aspect of the company and myself.  <br>
-\[[Youtube](https://www.youtube.com/watch?v=6EZ8q_2rL-8&list=PLkAZiMVWwm_rtcUxdWkOVVABQ5jRftFuH)\] <br>
+\[[Session](https://www.youtube.com/watch?v=6EZ8q_2rL-8&list=PLkAZiMVWwm_rtcUxdWkOVVABQ5jRftFuH)\] <br>
 Medellín, Colombia - Jun 2024 <br>
  <br>
 **PyCon 2024** <br>
@@ -65,7 +65,7 @@ Medellín, Colombia - Feb 2020 <br>
 ## Experience in Talks
 **Espacio Brújula** <br>
 “IA: su historia a través del tiempo” - Talk: In this presentation for a science club we went through the history of AI, highlighting differents moments in its evolution.  <br>
-\[[Slides](https://docs.google.com/presentation/d/1SOH2ANaXtA633uoOhWmxUZE38GwS06ltpslNjO0rGoU/edit?usp=sharing) - [Youtube recap](https://www.youtube.com/watch?v=nFlp1hvT7-o)\] <br>
+\[[Slides](https://docs.google.com/presentation/d/1SOH2ANaXtA633uoOhWmxUZE38GwS06ltpslNjO0rGoU/edit?usp=sharing) - [Short recap](https://www.youtube.com/watch?v=nFlp1hvT7-o)\] <br>
 Montevideo, Uruguay - Sep 2022 <br>
  <br>
 **"Clase Magistral: Inteligencia Artificial en todas partes"** <br>
