@@ -46,7 +46,7 @@ Medellín, Colombia - Nov 2024 <br>
  <br>
  
  **PyCon 2024** <br>
-Sponsor Interview: I was interviewed as part of Nearsure's sponsorship where we talked about several aspect of the company and myself.  <br>
+Sponsor Interview: I was interviewed as part of Nearsure's sponsorship where we talked about several aspects of the company and myself.  <br>
 \[[Session](https://www.youtube.com/watch?v=6EZ8q_2rL-8&list=PLkAZiMVWwm_rtcUxdWkOVVABQ5jRftFuH)\] <br>
 Medellín, Colombia - Jun 2024 <br>
  <br>
