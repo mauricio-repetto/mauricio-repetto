@@ -100,6 +100,11 @@ Accompany women through a comprehensive training process to facilitate their emp
 \[[Project](https://www.fundacioncea.org/mujeresadelante#:~:text=Una%20iniciativa%20que%20busca%20capacitar,ventas%20y%20servicio%20al%20cliente.) - [Certificate](https://insignias.disruptia.co/assertion/a3028679-9efc-44c5-95ef-38e0a4921a41)\].<br>
 Medellín, Colombia - Mar 2023<br>
 <br>
+**"Innovación de Tecnología Cerebral"**<br>
+Scientific collaboration seminar and Global Brain Research Initiative for Uruguay under the Framework of the Chinese Brain Program "Technology Innovation. <br>
+\[[Certificate]([https://dialnet.unirioja.es/descarga/articulo/6041540.pdf](https://drive.google.com/file/d/1i0_KlYgirwXJzDGYC8dS6xMTE6l1ezVL/view?usp=sharing))\].<br>
+Montevideo, Uruguay - Nov 2022<br>
+
 **“A national experience in training teachers: Scratch and Robotics in Uruguay”**<br>
 In 2011 a specific CEIBAL’s program was launched to train all Informatics teachers (1600 people) in Programming and Robotics. <br>
 \[[Project](https://dialnet.unirioja.es/descarga/articulo/6041540.pdf)\].<br>
