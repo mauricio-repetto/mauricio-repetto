@@ -36,6 +36,7 @@ Institute: Universidad ORT Uruguay <br>
 Location: Montevideo, Uruguay <br>
 Year: 2009 <br>
  <br>  
+ 
 # Participation in events
 
 **Google Developer Groups (November Session)** <br>
@@ -43,41 +44,49 @@ Year: 2009 <br>
 \[[Slides](https://docs.google.com/presentation/d/1V1rnAXciGe4lISQf_9jQq18vKcERAndmfHYgwwV93lw/edit?usp=sharing) - [Materials](http://bit.ly/gdgmed24_ns) - [Event](https://gdg.community.dev/events/details/google-gdg-medellin-presents-como-hago-para-que-la-ia-me-conozca/)\] <br>
 Medellín, Colombia - Nov 2024 <br>
  <br>
+ 
  **PyCon 2024** <br>
 Sponsor Interview: I was interviewed as part of Nearsure's sponsorship where we talked about several aspect of the company and myself.  <br>
 \[[Session](https://www.youtube.com/watch?v=6EZ8q_2rL-8&list=PLkAZiMVWwm_rtcUxdWkOVVABQ5jRftFuH)\] <br>
 Medellín, Colombia - Jun 2024 <br>
  <br>
+ 
 **PyCon 2024** <br>
 “¿Cómo hago para que la AI me conozca?” - Workshop: In this workshop I showed how you can finetune generative models for image generation with just a few images of yourself. We went through a couple of finetune techniques with Stable Diffusion with the theory behind first, and then the practical side of it.  <br>
-\[[Slides](https://docs.google.com/presentation/d/16g29yj9itFca0LeLo_akfH78CktxbN83VG5Sp_OKMx8/edit?usp=sharing) - [Materials](http://bit.ly/paicon24_ns) - [Certificate](https://drive.google.com/file/d/1xO_fr98dNs27pN2xIj5U4QtbMbmRNJFu/view)\] <br>
+\[[Slides](https://docs.google.com/presentation/d/16g29yj9itFca0LeLo_akfH78CktxbN83VG5Sp_OKMx8/edit?usp=sharing) - [Certificate](https://drive.google.com/file/d/1xO_fr98dNs27pN2xIj5U4QtbMbmRNJFu/view) - [Materials](http://bit.ly/paicon24_ns)\] <br>
 Medellín, Colombia - Jun 2024 <br>
  <br>
+ 
 **PyGeekle’22** <br>
 Moderator and part of the program committee for the Python Summit.  <br>
 \[[Site](https://events.geekle.us/python/) - [Certificate](https://verification.givemycertificate.com/v/d6317789-22c8-4d7b-aa5a-ba14031071b1) - [Session](https://youtu.be/2fgBKDT1j8k?list=PLkAZiMVWwm_rtcUxdWkOVVABQ5jRftFuH&t=36104)\] <br> Online - May 2022 <br>
  <br>
+ 
 **PyCon 2020** <br>
 “Tierra a la vista” - Workshop: In this workshop I explained how to create a simple classifier to recognize earth on a photo from space and all the things to take into account when building this kind of model.  <br>
-\[[Slides](https://docs.google.com/presentation/d/1fDXMi8M7ZR2ueot6q5cStEwfEaav3NJ_jk02smI_CZY/edit?usp=sharing) - [Google colab notebook](https://drive.google.com/file/d/1neqSeyIqdpufL4EtY6jUirUvWGya0Mkp/view?usp=sharing)\] <br>
+\[[Slides](https://docs.google.com/presentation/d/1fDXMi8M7ZR2ueot6q5cStEwfEaav3NJ_jk02smI_CZY/edit?usp=sharing) - [Certificate](https://drive.google.com/file/d/1oVhTkBhaUPtRgSsiyKjDKCVnTYm0WJ7Y/view?usp=sharing) - [Google colab notebook](https://drive.google.com/file/d/1neqSeyIqdpufL4EtY6jUirUvWGya0Mkp/view?usp=sharing)\] <br>
 Medellín, Colombia - Feb 2020 <br>
  <br>
+ 
 ## Experience in Talks
 **Espacio Brújula** <br>
 “IA: su historia a través del tiempo” - Talk: In this presentation for a science club we went through the history of AI, highlighting differents moments in its evolution.  <br>
 \[[Slides](https://docs.google.com/presentation/d/1SOH2ANaXtA633uoOhWmxUZE38GwS06ltpslNjO0rGoU/edit?usp=sharing) - [Short recap](https://www.youtube.com/watch?v=nFlp1hvT7-o)\] <br>
 Montevideo, Uruguay - Sep 2022 <br>
  <br>
+ 
 **"Clase Magistral: Inteligencia Artificial en todas partes"** <br>
 An Artificial Intelligence talk where we presented an introduction to some concepts and several use cases at Facultad de Ingeniería of Universidad de Montevideo.  <br>
 \[[Slides](https://docs.google.com/presentation/d/11AzVkRwAwXyVvIh2AKvVtxXx_1R2nd2Wo_R0othvh8Y/edit?usp=sharing) - [Talk](https://youtu.be/6-HR3RxyCQo) - [Interview](https://www.linkedin.com/comm/feed/update/urn%3Ali%3Aactivity%3A6958205167661907968)\]. <br>
 Montevideo, Uruguay - Jul 2022 <br>
  <br>
+ 
  **“AI Talks 2021”** <br>
 “Proyectos de IA en healthcare”, In this talk we showed some examples about AI projects in Healthcare where UruIT has participated. We shared experiences and challenges that we faced during the development of these solutions (and more).  <br>
 \[[Slides](https://docs.google.com/presentation/d/1C_nnkjR8lhhrZndrEvJmbYwjCX_kUZFZYIHxa_x8rZw/edit?usp=sharing) - [Talk](https://youtu.be/clKHG4U-cBI)\] <br>
 Montevideo, Uruguay - Oct 2021 <br>
  <br>
+ 
 **“AI Talks 2021”** <br>
 Organizer and moderator at these series of events at UruIT.  <br>
 \[[AI Talks Program](https://digital.uruit.com/ai-talks) - [Talks](https://youtube.com/playlist?list=PLxHptoGq8Bb0JXHU3WzT93clvAgMPNmwP)\] <br>
