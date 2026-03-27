@@ -70,7 +70,7 @@ Medellín, Colombia - Feb 2020 <br>
  
 ## Experience in Talks
 **Espacio Brújula** <br>
-“IA: su historia a través del tiempo” - Talk: In this presentation for a science club we went through the history of AI, highlighting differents moments in its evolution.  <br>
+“IA: su historia a través del tiempo” - Talk: In this presentation for a science club we went through the history of AI, highlighting different moments in its evolution.  <br>
 \[[Slides](https://docs.google.com/presentation/d/1SOH2ANaXtA633uoOhWmxUZE38GwS06ltpslNjO0rGoU/edit?usp=sharing) - [Short recap](https://www.youtube.com/watch?v=nFlp1hvT7-o)\] <br>
 Montevideo, Uruguay - Sep 2022 <br>
  <br>
