@@ -102,7 +102,7 @@ Medellín, Colombia - Mar 2023<br>
 <br>
 **"Innovación de Tecnología Cerebral"**<br>
 Scientific collaboration seminar and Global Brain Research Initiative for Uruguay under the Framework of the Chinese Brain Program "Technology Innovation. <br>
-\[[Certificate]([https://dialnet.unirioja.es/descarga/articulo/6041540.pdf](https://drive.google.com/file/d/1i0_KlYgirwXJzDGYC8dS6xMTE6l1ezVL/view?usp=sharing))\].<br>
+\[[Certificate](https://drive.google.com/file/d/1i0_KlYgirwXJzDGYC8dS6xMTE6l1ezVL/view?usp=sharing)\].<br>
 Montevideo, Uruguay - Nov 2022<br>
 
 **“A national experience in training teachers: Scratch and Robotics in Uruguay”**<br>
