@@ -88,7 +88,7 @@ Montevideo, Uruguay - Oct 2021 <br>
  <br>
  
 **“AI Talks 2021”** <br>
-Organizer and moderator at these series of events at UruIT.  <br>
+Organizer, moderator and speaker at these series of events at UruIT.  <br>
 \[[AI Talks Program](https://digital.uruit.com/ai-talks) - [Talks](https://youtube.com/playlist?list=PLxHptoGq8Bb0JXHU3WzT93clvAgMPNmwP)\] <br>
 Montevideo, Uruguay - 2021 <br>
  <br>
