@@ -85,7 +85,7 @@ An Artificial Intelligence talk where we presented an introduction to some conce
 \[[Slides](https://docs.google.com/presentation/d/11AzVkRwAwXyVvIh2AKvVtxXx_1R2nd2Wo_R0othvh8Y/edit?usp=sharing) - [Talk](https://youtu.be/6-HR3RxyCQo) - [Interview](https://www.linkedin.com/comm/feed/update/urn%3Ali%3Aactivity%3A6958205167661907968)\]. <br>
 Montevideo, Uruguay - Jul 2022 <br>
  <br>
- 
+
  **“AI Talks 2021”** <br>
 “Proyectos de IA en healthcare”, In this talk we showed some examples about AI projects in Healthcare where UruIT has participated. We shared experiences and challenges that we faced during the development of these solutions (and more).  <br>
 \[[Slides](https://docs.google.com/presentation/d/1C_nnkjR8lhhrZndrEvJmbYwjCX_kUZFZYIHxa_x8rZw/edit?usp=sharing) - [Talk](https://youtu.be/clKHG4U-cBI)\] <br>
@@ -98,6 +98,11 @@ Organizer, moderator and speaker at these series of events at UruIT.  <br>
 Montevideo, Uruguay - 2021 <br>
  <br>
 
+## Assistance in Other International Events
+- SALA AI 2026, March 9-12 - Quito, Ecuador - [Certificate](https://drive.google.com/file/d/1Md-QIB3xOIarUzSzK2J6jRqm8OiH9HVY/view?usp=sharing)
+- Pycon 2025, July 4-6 - Medellín, Colombia 
+ <br>
+ 
  ## Other Experiences
 
 **“Mujeres adelante”**<br>
