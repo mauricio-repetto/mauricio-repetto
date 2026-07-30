@@ -68,7 +68,7 @@ Moderator and part of the program committee for the Python Summit.  <br>
  <br>
  
 **PyCon 2020** <br>
-“Tierra a la vista” - Workshop: In this workshop I explained how to create a simple classifier to recognize earth on a photo from space and all the things to take into account when building this kind of model.  <br>
+“Tierra a la vista” - Workshop: In this workshop I explained how to create a simple classifier to recognize earth on a photo from space and all the things to take into account when building this kind of model for computer vision.  <br>
 \[[Slides](https://docs.google.com/presentation/d/1fDXMi8M7ZR2ueot6q5cStEwfEaav3NJ_jk02smI_CZY/edit?usp=sharing) - [Certificate](https://drive.google.com/file/d/1oVhTkBhaUPtRgSsiyKjDKCVnTYm0WJ7Y/view?usp=sharing) - [Google colab notebook](https://drive.google.com/file/d/1neqSeyIqdpufL4EtY6jUirUvWGya0Mkp/view?usp=sharing)\] <br>
 Medellín, Colombia - Feb 2020 <br>
  <br>
