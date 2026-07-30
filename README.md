@@ -43,6 +43,7 @@ Year: 2009 <br>
 “TOON ¡Es ahorra o nunca!” - Workshop: In this workshop I presented a recent data format as an alternative to JSON, to use in LLMs and saving tokens (and costs) when handling extensive data and inputting to/outputting from the model. <br>
 \[[Slides](https://docs.google.com/presentation/d/15f4Qsopf01CZT138GF4WZBFiJbnsXFT7su-Wye7H-X8/edit?usp=drive_link) - [Certificate]() - [Materials](http://bit.ly/paicon26_ns)\]<br>
 Medellín, Colombia - Jul 2026<br>
+<br>
 
 **Google Developer Groups (November Session)** <br>
 “¿Cómo hago para que la AI me conozca?” - Workshop: This was an updated version of the workshop for Pycon 2024.  <br>
