@@ -65,7 +65,7 @@ Medellín, Colombia - Jun 2024 <br>
  
 **PyGeekle’22** <br>
 Moderator and part of the program committee for the Python Summit.  <br>
-\[[Site](https://events.geekle.us/python/) - [Certificate](https://verification.givemycertificate.com/v/d6317789-22c8-4d7b-aa5a-ba14031071b1) - [Session](https://youtu.be/2fgBKDT1j8k?list=PLkAZiMVWwm_rtcUxdWkOVVABQ5jRftFuH&t=36104)\] <br> Online - May 2022 <br>
+\[[Site](https://web.archive.org/web/20241114012327/https://events.geekle.us/python/) - [Certificate](https://verification.givemycertificate.com/v/d6317789-22c8-4d7b-aa5a-ba14031071b1) - [Session](https://youtu.be/2fgBKDT1j8k?list=PLkAZiMVWwm_rtcUxdWkOVVABQ5jRftFuH&t=36104)\] <br> Online - May 2022 <br>
  <br>
  
 **PyCon 2020** <br>
@@ -95,7 +95,7 @@ Montevideo, Uruguay - Oct 2021 <br>
  
 **“AI Talks 2021”** <br>
 Organizer, moderator and speaker at these series of events at UruIT.  <br>
-\[[AI Talks Program](https://digital.uruit.com/ai-talks) - [Talks](https://youtube.com/playlist?list=PLxHptoGq8Bb0JXHU3WzT93clvAgMPNmwP)\] <br>
+\[[AI Talks Program](https://web.archive.org/web/20210602195524/http://digital.uruit.com/ai-talks) - [Talks](https://youtube.com/playlist?list=PLxHptoGq8Bb0JXHU3WzT93clvAgMPNmwP)\] <br>
 Montevideo, Uruguay - 2021 <br>
  <br>
 
