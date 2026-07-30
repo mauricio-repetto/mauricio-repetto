@@ -114,7 +114,12 @@ Medellín, Colombia - Mar 2023<br>
 Scientific collaboration seminar and Global Brain Research Initiative for Uruguay under the Framework of the Chinese Brain Program “Brain Technology Innovation”. <br>
 \[[Certificate](https://drive.google.com/file/d/1i0_KlYgirwXJzDGYC8dS6xMTE6l1ezVL/view?usp=sharing)\].<br>
 Montevideo, Uruguay - Nov 2022<br>
-
+<br>
+**“FUTURE Powered by Uruguay: Episode 3 - UruIT, Pyxis, IDATHA”**<br>
+I took part in a documentary promoting Uruguayan capabilities in software and as an example of company collaboration.<br>
+[Episode](https://www.youtube.com/watch?v=ocLaQHnf7Xg)
+Montevideo, Uruguay - Aug 2021<br>
+<br>
 **“A national experience in training teachers: Scratch and Robotics in Uruguay”**<br>
 In 2011 a specific CEIBAL’s program was launched to train all Informatics teachers (1600 people) in Programming and Robotics. <br>
 \[[Project](https://dialnet.unirioja.es/descarga/articulo/6041540.pdf)\].<br>
