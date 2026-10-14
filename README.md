@@ -2,7 +2,7 @@
 
 Hi 👋🤓 I’m @mauricio-repetto. I'm a System Engineer from Universidad ORT Uruguay with a Master's degree in BigData. In addition I've two post-degrees, one in BigData Analytics and another in Artificial Intelligence.<br> 
 I am currently working as a Machine Learning Engineer at Nortal (prev. UruIT and Nearsure) and as a professor at Universidad ORT Uruguay.<br> 
-I have an extensive experience in the development of Business Intelligence solutions for various clients in South America and the United States and since 2018 I have worked in several projects based on Artificial Intelligence in areas such as Computer Vision (CV), Natural Language Processing (NLP) and Audio Processing (AP), among others.<br>
+I have extensive experience developing Business Intelligence solutions for clients in South America and the United States. Since 2018, I have worked on several AI projects in areas such as Computer Vision (CV), Natural Language Processing (NLP), Audio Processing (AP), and predictive modeling for healthcare and sales forecasting, taking models from development to production in the cloud. In recent years, I have focused on automating business processes using LLMs from different providers.<br>
 
 - 👀 I’m interested in **Artificial Intelligence**.
 - 🌱 I’m currently learning **everything about AI**.
