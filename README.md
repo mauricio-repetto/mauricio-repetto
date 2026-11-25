@@ -128,7 +128,7 @@ Montevideo, Uruguay - Nov 2022<br>
 <br>
 **“FUTURE Powered by Uruguay: Episode 3 - UruIT, Pyxis, IDATHA”**<br>
 I took part in a documentary promoting Uruguayan capabilities in software and as an example of company collaboration.<br>
-\[[Episode](https://www.youtube.com/watch?v=ocLaQHnf7Xg)\]
+\[[Episode](https://www.youtube.com/watch?v=ocLaQHnf7Xg)\]<br>
 Montevideo, Uruguay - Aug 2021<br>
 <br>
 **“A national experience in training teachers: Scratch and Robotics in Uruguay”**<br>
