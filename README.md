@@ -1,7 +1,7 @@
 # About me
 
 Hi 👋🤓 I’m @mauricio-repetto. I'm a System Engineer from Universidad ORT Uruguay with a Master's degree in BigData. In addition I've two post-degrees, one in BigData Analytics and another in Artificial Intelligence.<br> 
-I am currently working as a Machine Learning Engineer at Nortal (prev. UruIT and Nearsure) since 2012 and as a professor at Universidad ORT Uruguay since 2013.<br> 
+I'm currently serving as a Machine Learning Engineer at Nortal (formerly UruIT and Nearsure) where I have been working since 2012, and I have also been a professor at Universidad ORT Uruguay since 2013.<br> 
 I have extensive experience developing Business Intelligence solutions for clients in South America and the United States. Since 2018, I have worked on several AI projects in areas such as Computer Vision (CV), Natural Language Processing (NLP), Audio Processing (AP), and predictive modeling for healthcare and sales forecasting, taking models from development to production in the cloud. In recent years, I have focused on automating business processes using LLMs from different providers.<br>
 
 - 👀 I’m interested in **Artificial Intelligence**.
@@ -38,6 +38,12 @@ Year: 2009 <br>
  <br>  
  
 # Participation in events
+
+**BoyaConf 2026** <br>
+“El ML clásico no está muerto todavía” - Talk: We presented a use case in the Flower Industry where the client problems were solved using Classic ML. <br>
+\[[Slides](https://docs.google.com/presentation/d/1k1JXYeW4cSiYYEXgT3ajzVxVKufFE5bKkEEaCun6tEQ/edit?usp=sharing) - [Materials]([http://bit.ly/paicon26_ns](https://drive.google.com/drive/folders/1HnOPlIBtMUTMz42iJiuaSFEBRI4fQKyl?usp=sharing))\]<br>
+Tunja, Colombia - Nov 2026<br>
+<br>
 
 **PyCon 2026** <br>
 “TOON ¡Es ahorra o nunca!” - Workshop: In this workshop I presented a recent data format as an alternative to JSON, to use in LLMs and saving tokens (and costs) when handling extensive data and inputting to/outputting from the model. <br>
