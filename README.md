@@ -42,7 +42,7 @@ Year: 2009 <br>
 # Participation in events
 
 **BoyaConf 2026** <br>
-“El ML clásico no está muerto todavía” - Talk: We presented a use case in the Flower Industry where the client problems were solved using Classic ML. <br>
+“El ML clásico no está muerto todavía” - Talk: A Flower Industry use case presentation where the solution involved Classic ML. <br>
 \[[Slides](https://docs.google.com/presentation/d/1k1JXYeW4cSiYYEXgT3ajzVxVKufFE5bKkEEaCun6tEQ/edit?usp=sharing) - [Materials](https://drive.google.com/drive/folders/1HnOPlIBtMUTMz42iJiuaSFEBRI4fQKyl?usp=sharing)\]<br>
 Tunja, Colombia - Nov 2026<br>
 <br>
