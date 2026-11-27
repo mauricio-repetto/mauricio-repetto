@@ -43,7 +43,7 @@ Year: 2009 <br>
 
 **BoyaConf 2026** <br>
 “El ML clásico no está muerto todavía” - Talk: A Flower Industry use case presentation where the solution involved Classic ML. <br>
-\[[Slides](https://docs.google.com/presentation/d/1k1JXYeW4cSiYYEXgT3ajzVxVKufFE5bKkEEaCun6tEQ/edit?usp=sharing) - [Materials](https://drive.google.com/drive/folders/1HnOPlIBtMUTMz42iJiuaSFEBRI4fQKyl?usp=sharing)\]<br>
+\[[Slides](https://docs.google.com/presentation/d/1k1JXYeW4cSiYYEXgT3ajzVxVKufFE5bKkEEaCun6tEQ/edit?usp=sharing) - [Certificate](https://drive.google.com/file/d/1_v8QvbxlkgkNoSnwzt5Pb2Sj5HzqdA0m/view?usp=sharing) - [Materials](https://drive.google.com/drive/folders/1HnOPlIBtMUTMz42iJiuaSFEBRI4fQKyl?usp=sharing)\]<br>
 Tunja, Colombia - Nov 2026<br>
 <br>
 
