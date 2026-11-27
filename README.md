@@ -109,9 +109,10 @@ Montevideo, Uruguay - 2021 <br>
 
 ## Attendance At Other International Events
 
-- SALA AI 2026, March 9-12 - Quito, Ecuador - [Certificate](https://drive.google.com/file/d/1Md-QIB3xOIarUzSzK2J6jRqm8OiH9HVY/view?usp=sharing)
-- BoyaConf 2025, October 10-11 - Tunja, Colombia 
-- Pycon 2025, July 4-6 - Medellín, Colombia 
+- ExplAIn 2026, November 25-26 | Medellín, Colombia
+- SALA AI 2026, March 9-12 | Quito, Ecuador | [Certificate](https://drive.google.com/file/d/1Md-QIB3xOIarUzSzK2J6jRqm8OiH9HVY/view?usp=sharing)
+- BoyaConf 2025, October 10-11 | Tunja, Colombia 
+- Pycon 2025, July 4-6 | Medellín, Colombia 
  <br>
  
  ## Other Experiences
