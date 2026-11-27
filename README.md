@@ -13,7 +13,7 @@ I have extensive experience developing Business Intelligence solutions for clien
 
 # Education
 
-Master degree: **Master in Big Data** <br>
+Master's degree: **Master in Big Data** <br>
 Institute: Universidad ORT Uruguay <br>
 Location: Montevideo, Uruguay <br>
 Year: 2023 <br>
